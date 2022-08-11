@@ -6,3 +6,5 @@ def max(x,y):   #First define the function by giving it a variable name.
 
 z = max(5, 10)  #Now use the function by setting a variable and calling it. 
 print(z)        #Print the function. 
+
+Changes made here 
