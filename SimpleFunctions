@@ -1,8 +1,8 @@
-def max(x,y):
-    if x >= y:
+def max(x,y):   #First define the function by giving it a variable name. 
+    if x >= y:      #Now define the piece of cody (the body) that you want to store in this function. 
         return x
     else:
         return y
 
-z = max(5, 10)
-print(z)
+z = max(5, 10)  #Now use the function by setting a variable and calling it. 
+print(z)        #Print the function. 
