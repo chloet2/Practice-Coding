@@ -1,0 +1,13 @@
+A simple program to show how to write a FOR loop. 
+
+friends = ['Joseph','Glen','Sally']   #First, set a list of items. 
+for friend in friends:                #use FOR and set the first iteration. 
+    print('Happy birthday', friend)   #set the PRINT function to iterate through the FOR loop. 
+print('Done!')                        #set the final PRINT function outside of the loop to give the user a sign that the loop has finished.
+
+Result:
+
+Happy birthday Joseph
+Happy birthday Glen
+Happy birthday Sally
+Done!
